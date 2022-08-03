@@ -1,4 +1,6 @@
 # SUDOKO
-not for all puzzles
+## not for all puzzles
 These are the assignments provided by my Python Professor.
-To check my Work kindly jump to notebook referred as Sudoko and Jump to Sudoko Project for my hand Submission
+Directory:Some basic python codes
+2nd File My Python Exam Submission
+3rd Sudo Project Submission kindly scroll down to Sudo Python Project for my work
